@@ -1,0 +1,38 @@
+
+
+h1{
+    text-align: center;
+}
+
+.boxes{
+    display: flex;
+    height: 100vh;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    cursor: pointer;
+}
+
+.boxes .button{
+     width: 200px;   
+     height: 200px;
+     border: 1px solid black;
+
+}
+
+#grey{
+    background-color: gray;
+}
+
+#white{
+    background-color: white;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
