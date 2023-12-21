@@ -6,7 +6,8 @@
 const eventprops = document.getElementById('box-4')
 eventprops.addEventListener('click', (e) => {
     
-console.log(e);
+console.log(e); 
+
 
 console.log(e.type);
 console.log(e.target);
