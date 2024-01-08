@@ -39,11 +39,6 @@ const a = document.querySelector("h1")
 
 
 
-
-
-
-
-
 // ===================Query Selector All=====
 // let qsa = document.querySelector("h1")
 
